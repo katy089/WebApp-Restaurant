@@ -59,7 +59,6 @@ Con esta idea en mente, nace CHETIFABENE; una aplicación web que permite a los 
 
 ---
 
-<h1>  <img src="https://media1.giphy.com/media/gF2m2JOyGReppog8hU/giphy.gif" width="30px">Equipo "Manya Manya" (c16-24-n-node-react)</h1>
 
 <div align='center'>
 
@@ -70,9 +69,7 @@ Con esta idea en mente, nace CHETIFABENE; una aplicación web que permite a los 
 ---
 
 <div align='center'>
-  <a href="https://www.nocountry.tech/" target="_blank">
-    <img style='background-color:black;' src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsukYB3HL90LSwYv_RIR2O2OlCV8Sbkx2eNHv8nRvOu8L16FxLQ0nPzY02wQ_BJOfQZw&usqp=CAU" width="200">
-  </a>
+ 
 </div>
 
 
