@@ -1,5 +1,5 @@
 <div align='center'>
-    <img src="https://github.com/No-Country/c16-24-n-node-react/blob/dev/front/src/assets/isotipo_fondo.jpg" alt="Banner" width="60%" />
+
 </div>
 
 <div align='center'>
