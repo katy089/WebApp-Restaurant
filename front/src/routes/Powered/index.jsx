@@ -3,9 +3,9 @@ import { FaSquareGithub, FaSquareGitlab } from "react-icons/fa6";
 import { TbWorldWww } from "react-icons/tb";
 
 function Powered() {
-  const developers = [
+  const developer = [
     {
-      name: "Eduardo Abba",
+      name: "Katya Geraldine Anco Bustillos",
       stack: "Full Stack Web Developer",
       linkedin: "https://www.linkedin.com/in/katya-anco/",
       github: "https://github.com/katy089",
