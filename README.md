@@ -63,31 +63,9 @@ Con esta idea en mente, nace CHETIFABENE; una aplicación web que permite a los 
 
 <div align='center'>
 
-| Anibal Elbaum | Jorge Trujillo |
-|:-------:|:------:|
-| Backend | Backend |
-| <a href="https://github.com/andavian"><img src="https://img.shields.io/badge/github-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/></a> <a href="https://www.linkedin.com/in/inganibalelbaum"><img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a> | <a href="https://github.com/xiriuxb"><img src="https://img.shields.io/badge/github-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/></a> <a href="https://www.linkedin.com/in/jorge-trujillo-91a00a163/"><img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a> |
-
-| Gustavo Baranda | Luca Carena |
-|:-------:|:------:|
-| Frontend  |  Frontend |
-| <a href="https://github.com/GustavoBaranda"><img src="https://img.shields.io/badge/github-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/></a> <a href="https://www.linkedin.com/in/gustavobaranda/"><img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a> | <a href="https://github.com/LucaCarena97"><img src="https://img.shields.io/badge/github-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/></a> <a href="https://www.linkedin.com/in/luca-carena-463855127/"><img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a> |
-
-| Matias Carballo  | Eduardo Abba | Daniel Jerez |
-|:-------:|:------:|:-------:|
-| Team Leader | Project Manager | Designer UI/UX |
-| <a href="https://github.com/lokywolf2295"><img src="https://img.shields.io/badge/github-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/></a> <a href="https://www.linkedin.com/in/matias-es-carballo/"><img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a> | <a href="https://github.com/abbacibertech"><img src="https://img.shields.io/badge/github-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/></a> <a href="https://www.linkedin.com/in/eduardo-abba-cibertech/"><img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a> | <a href="https://github.com/diciembre2004"><img src="https://img.shields.io/badge/github-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/></a> <a href="https://www.linkedin.com/in/daniel-jerez-design/"><img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a> |
 </div>
 
 ---
-
-# 📷 Capturas de pantalla
-
-<img src="https://github.com/No-Country/c16-24-n-node-react/blob/dev/front/src/assets/home_screenshot.png">
-
-<img src="https://github.com/No-Country/c16-24-n-node-react/blob/dev/front/src/assets/post_screenshot.png">
-
-<img src="https://github.com/No-Country/c16-24-n-node-react/blob/dev/front/src/assets/profile_screenshot.png">
 
 ---
 
