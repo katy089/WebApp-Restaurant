@@ -18,10 +18,6 @@
     </a>
     <a href="https://drive.google.com/drive/folders/1qyh53ODb3P2f8XG1j8tx7-hJ5rivF1nv?usp=drive_link" target="_blank">
         <img  src="https://img.shields.io/badge/Documentacion-blue?style=for-the-badge&logo=google-drive"/>
-    </a>
-    <a href="https://trello.com/b/SqTFX78j/chetifabene-user-story-mapping" target="_blank">
-  <img src="https://img.shields.io/badge/Trello-blue?style=for-the-badge&logo=trello"/>
-</a>
 </div>
 
 ---
