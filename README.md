@@ -16,8 +16,7 @@
     <a href="https://www.figma.com/file/5vkBYrp2seYVJm20nRYbKp/Chetifabene?type=design&node-id=0-1&mode=design" target="_blank">
         <img src="https://img.shields.io/badge/DISEÑO-blue?style=for-the-badge&logo=figma&logoColor=%23343B4E"/>
     </a>
-    <a href="https://drive.google.com/drive/folders/1qyh53ODb3P2f8XG1j8tx7-hJ5rivF1nv?usp=drive_link" target="_blank">
-        <img  src="https://img.shields.io/badge/Documentacion-blue?style=for-the-badge&logo=google-drive"/>
+    
 </div>
 
 ---
